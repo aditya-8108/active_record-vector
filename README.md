@@ -5,6 +5,7 @@
   </p>
   <p align="center">
     <a href="https://rubygems.org/gems/active_record-vector"><img src="https://img.shields.io/gem/v/active_record-vector?color=%23e9573f" alt="Gem Version"></a>
+    <a href="https://github.com/aditya-8108/active_record-vector/actions/workflows/ci.yml"><img src="https://github.com/aditya-8108/active_record-vector/actions/workflows/ci.yml/badge.svg" alt="CI Status"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
     <a href="https://rubygems.org/gems/active_record-vector"><img src="https://img.shields.io/gem/dt/active_record-vector?color=green" alt="Downloads"></a>
   </p>
